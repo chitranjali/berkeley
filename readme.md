@@ -15,3 +15,12 @@ all the clients. This all is done parallelly using threads.
 * After the synchronization, each process prints out its logical
 clock to check the result of synchronization.
 
+**Run the scripts:**
+
+1. First, Initialise the virtual and environment and install requirements file.
+2. you can then run server.py in terminal with python server.py
+3. Now start connecting the clients by running client.py and the server starts li
+tening and synchronizing times across them.
+
+
+
